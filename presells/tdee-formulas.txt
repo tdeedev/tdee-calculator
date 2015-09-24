@@ -1,0 +1,40 @@
+Daily calorie intake for fat loss: 10-12 times your BW ( in pounds)
+
+Daily calorie intake for muscle building: 16-18 times your BW (in pounds)
+
+
+Beginners Nutrition List 
+
+
+Suggester
+-
+
+<span class="fa-stack fa-lg">
+  <i class="fa fa-circle fa-stack-2x"></i>
+  <i class="fa fa-bar-chart fa-stack-1x fa-inverse"></i>
+</span>
+
+The Katch-McArdle Equation
+BMR = 370 + (21.6 x Lean Body Mass (kg))
+
+The Cunningham Formula
+RMR = 500 + (22 x Lean Body Mass [LBM] in kg)
+
+The Mifflin-St Jeor Equation
+Men: (10 x weight in kg) + (6.25 x height in cm) - (4.92 x age) + 5
+Women: (10 x weight in kg) + (6.25 x height in cm) - (4.92 x age) - 161
+
+The Revised Harris-Benedict Equation
+Men: BMR = 88.362 + (13.397 x weight in kg) + (4.799 x height in cm) - (5.677 x age in years)
+Women: BMR = 447.593 + (9.247 x weight in kg) + (3.098 x height in cm) - (4.330 x age in years)
+
+RMR (kcal/d) = -857 + 9.0 (weight in kg) + 11.7 (height in cm)
+RMR = -857 + 2934
+
+The Owen Equation
+
+
+The WHO/FAO/UNU Equation
+
+
+The Aragon RMR Equation
